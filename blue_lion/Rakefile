@@ -1,0 +1,4 @@
+task :default do
+  sh 'ls -1R *.json > ls-1R.txt'
+end
+
