@@ -2,8 +2,8 @@
   "Name": "Sample",
   "Layers": [
     {
-      "div_x":5,
-      "div_y":5,
+      "div_x":2,
+      "div_y":2,
       "delta_t":2,
       "noise_x":0,
       "noise_y":0,
@@ -11,8 +11,8 @@
       "density":1
     },
     {
-      "div_x":5,
-      "div_y":5,
+      "div_x":2,
+      "div_y":2,
       "delta_t":2,
       "noise_x":0,
       "noise_y":0,
