@@ -1,15 +1,5 @@
 pattern0.json
 pattern1.json
-pattern2.json
-y_0.json
-y_1.json
-y_10.json
 y_11.json
-y_12.json
-y_13.json
-y_14.json
 y_15.json
-y_16.json
-y_17.json
-y_18.json
-y_19.json
+
