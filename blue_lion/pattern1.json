@@ -5,10 +5,10 @@
       "div_x":4,
       "div_y":4,
       "delta_t":3,
-      "noise_x":100.0,
-      "noise_y":100.0,
+      "noise_x":0.0,
+      "noise_y":0.0,
       "nouse_t":10.0,
-      "density":0.5
+      "density":1
     }
   ]
 }
