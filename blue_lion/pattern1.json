@@ -4,10 +4,10 @@
     {
       "div_x":4,
       "div_y":4,
-      "delta_t":3,
+      "delta_t":10,
       "noise_x":0.1,
       "noise_y":0.1,
-      "nouse_t":10.0,
+      "noise_t":1.0,
       "density":1
     }
   ]
