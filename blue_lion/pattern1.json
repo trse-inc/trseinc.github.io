@@ -9,15 +9,6 @@
       "noise_y":0.2,
       "noise_t":1,
       "density":1
-    },
-    {
-      "div_x":3,
-      "div_y":4,
-      "delta_t":2,
-      "noise_x":0.5,
-      "noise_y":0.5,
-      "noise_t":1,
-      "density":1
     }
   ]
 }
