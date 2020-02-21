@@ -2,6 +2,15 @@
   "Name": "Sample",
   "GridPatterns": [
     {
+      "div_x":3,
+      "div_y":3,
+      "delta_t":10,
+      "noise_x":0,
+      "noise_y":0,
+      "noise_t":0,
+      "density":0.3
+    },
+     {
       "div_x":2,
       "div_y":2,
       "delta_t":10,
@@ -10,14 +19,5 @@
       "noise_t":0,
       "density":1
     },
-    {
-      "div_x":3,
-      "div_y":3,
-      "delta_t":10,
-      "noise_x":0,
-      "noise_y":0,
-      "noise_t":0,
-      "density":0.3
-    }
   ]
 }
