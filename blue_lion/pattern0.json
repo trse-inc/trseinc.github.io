@@ -8,7 +8,8 @@
       "noise_x":0.0,
       "noise_y":0.0,
       "noise_t":1.0,
-      "density":1.0
+      "density":1.0,
+      "z_index":1
     }
   ]
 }
