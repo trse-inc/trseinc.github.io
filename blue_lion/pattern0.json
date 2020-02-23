@@ -21,7 +21,7 @@
       "noise_t":0,
       "density":0.5,
       "z_index":1,
-      "motion":0.5
+      "motion":0.05
     }
   ]
 }
