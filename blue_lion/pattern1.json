@@ -10,7 +10,9 @@
       "noise_t":1.0,
       "density":1,
       "z_index":0,
-      "motion": 0.01
+      "motion_type": "easing",
+      "motion_speed": 0.4,
+      "motion_freq": 0.06
     }
   ]
 }
