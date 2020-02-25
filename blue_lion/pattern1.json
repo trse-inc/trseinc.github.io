@@ -10,7 +10,7 @@
       "noise_t":1.0,
       "density":1,
       "z_index":0,
-      "motion": 0.5
+      "motion": 0.01
     }
   ]
 }
