@@ -1,1 +1,1 @@
-pattern.json
+pattern2.json
