@@ -1,0 +1,44 @@
+{
+  "Name": "Bubble",
+  "GridPatterns": [
+    {
+      "div_x":4,
+      "div_y":4,
+      "delta_t":10,
+      "noise_x":0.5,
+      "noise_y":0.5,
+      "noise_t":0.0,
+      "density":1,
+      "z_index":0,
+      "motion_type": "bubble",
+      "motion_speed": 1.0,
+      "motion_freq": 0.0
+    },
+    {
+      "div_x":4,
+      "div_y":4,
+      "delta_t":10,
+      "noise_x":0.5,
+      "noise_y":0.5,
+      "noise_t":0.0,
+      "density":0.5,
+      "z_index":1,
+      "motion_type": "bubble",
+      "motion_speed": 2.0,
+      "motion_freq": 0.0
+    },
+    {
+      "div_x":2,
+      "div_y":2,
+      "delta_t":5,
+      "noise_x":0.5,
+      "noise_y":0.5,
+      "noise_t":0.0,
+      "density":1.0,
+      "z_index":2,
+      "motion_type": "center",
+      "motion_speed": 0.0,
+      "motion_freq": 0.0
+    }
+  ]
+}
