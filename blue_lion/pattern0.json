@@ -12,7 +12,9 @@
       "z_index":0,
       "motion_type": "none",
       "motion_speed": 0.0,
-      "motion_freq": 0.0
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
     },
     {
       "div_x":3,
@@ -25,7 +27,9 @@
       "z_index":1,
       "motion_type": "rotate",
       "motion_speed": 2.0,
-      "motion_freq": 0.01
+      "motion_freq": 0.01,
+      "min_importance": 1,
+      "max_importance": 20
     }
   ]
 }
