@@ -1,2 +1,4 @@
-pattern0.json
-pattern1.json
+bubble.json
+golden.json
+backwall.json
+square.json
