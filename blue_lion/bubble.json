@@ -12,7 +12,9 @@
       "z_index":0,
       "motion_type": "bubble",
       "motion_speed": 1.0,
-      "motion_freq": 0.0
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
     },
     {
       "div_x":4,
@@ -25,7 +27,9 @@
       "z_index":1,
       "motion_type": "bubble",
       "motion_speed": 2.0,
-      "motion_freq": 0.0
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
     },
     {
       "div_x":2,
@@ -38,7 +42,9 @@
       "z_index":2,
       "motion_type": "center",
       "motion_speed": 0.0,
-      "motion_freq": 0.0
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
     }
   ]
 }
