@@ -2,3 +2,4 @@ bubble.json
 golden.json
 backwall.json
 square.json
+rotate.json
