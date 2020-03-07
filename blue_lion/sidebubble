@@ -1,0 +1,35 @@
+{
+  "Name": "SideBubble",
+  "GridPatterns": [
+    {
+      "div_x":5,
+      "div_y":5,
+      "delta_t":10,
+      "noise_x":0.6,
+      "noise_y":0.1,
+      "noise_t":0,
+      "density":1,
+      "z_index":0,
+      "motion_type": "sidebubble",
+      "motion_speed": 0.5,
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
+    },
+    {
+      "div_x":2,
+      "div_y":2,
+      "delta_t":3,
+      "noise_x":0.6,
+      "noise_y":0.1,
+      "noise_t":0,
+      "density":1,
+      "z_index":1,
+      "motion_type": "center",
+      "motion_speed": 3.0,
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
+    }
+  ]
+}
