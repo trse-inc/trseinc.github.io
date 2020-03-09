@@ -1,5 +1,7 @@
 bubble.json
+sidebuble.json
 golden.json
 backwall.json
 square.json
 rotate.json
+wave.json
