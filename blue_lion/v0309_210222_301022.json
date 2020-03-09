@@ -1,35 +1,35 @@
 {
-    "GridPatterns": [
-        {
-            "noise_t": 0.0,
-            "delta_t": 3.0,
-            "max_importance": 20,
-            "div_y": 3,
-            "min_importance": 1,
-            "z_index": 1,
-            "motion_type": "sidebubble",
-            "motion_freq": 1.0,
-            "noise_x": 0.5,
-            "div_x": 3,
-            "noise_y": 0.5,
-            "motion_speed": 0.5,
-            "density": 1
-        },
-        {
-            "noise_t": 1.0,
-            "delta_t": 5.0,
-            "max_importance": 20,
-            "div_y": 4,
-            "min_importance": 1,
-            "z_index": 2,
-            "motion_type": "sidebubble",
-            "motion_freq": 1.0,
-            "noise_x": 0.2,
-            "div_x": 4,
-            "noise_y": 0.2,
-            "motion_speed": 0.5,
-            "density": 1
-        }
-    ],
-    "Name": "210222_301022"
+  "Name": "Sample",
+  "GridPatterns": [
+    {
+      "div_x":5,
+      "div_y":5,
+      "delta_t":10,
+      "noise_x":1.0,
+      "noise_y":0,
+      "noise_t":0,
+      "density":1,
+      "z_index":0,
+      "motion_type": "wave",
+      "motion_speed": 0.5,
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
+    },
+    {
+      "div_x":2,
+      "div_y":2,
+      "delta_t":3,
+      "noise_x":1.0,
+      "noise_y":0,
+      "noise_t":0,
+      "density":1,
+      "z_index":1,
+      "motion_type": "center",
+      "motion_speed": 0.5,
+      "motion_freq": 0.0,
+      "min_importance": 1,
+      "max_importance": 20
+    }
+  ]
 }
