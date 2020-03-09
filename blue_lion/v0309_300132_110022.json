@@ -1,35 +1,35 @@
 {
     "GridPatterns": [
         {
-            "noise_t": 0.0,
-            "delta_t": 3.0,
+            "noise_t": 0.5,
+            "delta_t": 5.0,
             "max_importance": 20,
-            "div_y": 3,
+            "div_y": 4,
             "min_importance": 1,
             "z_index": 1,
-            "motion_type": "bubble",
+            "motion_type": "center",
             "motion_freq": 1.0,
-            "noise_x": 0.2,
-            "div_x": 3,
-            "noise_y": 0.2,
-            "motion_speed": 1.0,
+            "noise_x": 0.5,
+            "div_x": 4,
+            "noise_y": 0.5,
+            "motion_speed": 0.5,
             "density": 1
         },
         {
-            "noise_t": 0.5,
+            "noise_t": 1.0,
             "delta_t": 3.0,
             "max_importance": 20,
-            "div_y": 3,
+            "div_y": 2,
             "min_importance": 1,
             "z_index": 2,
-            "motion_type": "wave",
+            "motion_type": "sidebubble",
             "motion_freq": 1.0,
             "noise_x": 0.5,
-            "div_x": 3,
+            "div_x": 2,
             "noise_y": 0.5,
-            "motion_speed": 2.0,
+            "motion_speed": 0.5,
             "density": 1
         }
     ],
-    "Name": "211211_210100"
+    "Name": "v0309_300132_110022"
 }

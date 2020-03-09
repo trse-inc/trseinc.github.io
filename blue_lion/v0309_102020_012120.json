@@ -1,35 +1,35 @@
 {
     "GridPatterns": [
         {
-            "noise_t": 0.0,
+            "noise_t": 1.0,
             "delta_t": 5.0,
             "max_importance": 20,
             "div_y": 2,
             "min_importance": 1,
             "z_index": 1,
-            "motion_type": "square",
+            "motion_type": "sidebubble",
             "motion_freq": 1.0,
-            "noise_x": 0.5,
+            "noise_x": 0.0,
             "div_x": 2,
-            "noise_y": 0.5,
+            "noise_y": 0.0,
             "motion_speed": 2.0,
             "density": 1
         },
         {
             "noise_t": 0.5,
-            "delta_t": 5.0,
+            "delta_t": 3.0,
             "max_importance": 20,
-            "div_y": 4,
+            "div_y": 1,
             "min_importance": 1,
             "z_index": 2,
-            "motion_type": "none",
+            "motion_type": "sidebubble",
             "motion_freq": 1.0,
-            "noise_x": 0.5,
-            "div_x": 4,
-            "noise_y": 0.5,
-            "motion_speed": 0.5,
+            "noise_x": 0.0,
+            "div_x": 1,
+            "noise_y": 0.0,
+            "motion_speed": 2.0,
             "density": 1
         }
     ],
-    "Name": "100240_300152"
+    "Name": "v0309_102020_012120"
 }
