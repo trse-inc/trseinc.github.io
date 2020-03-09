@@ -1,5 +1,5 @@
 bubble.json
-sidebuble.json
+sidebubble.json
 golden.json
 backwall.json
 square.json
