@@ -11,7 +11,7 @@
       "density":1,
       "z_index":0,
       "motion_type": "wave",
-      "motion_speed": 0.5,
+      "motion_speed": 1.0,
       "motion_freq": 0.0,
       "min_importance": 1,
       "max_importance": 20
