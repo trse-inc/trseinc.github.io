@@ -1,0 +1,35 @@
+{
+    "GridPatterns": [
+        {
+            "noise_x": 0.2,
+            "noise_t": 0.0,
+            "z_index": 1,
+            "noise_y": 0.2,
+            "div_x": 3,
+            "motion_type": "sidebubble",
+            "motion_speed": 2.0,
+            "div_y": 3,
+            "max_importance": 20,
+            "motion_freq": 1.0,
+            "min_importance": 1,
+            "delta_t": 5.0,
+            "density": 1
+        },
+        {
+            "noise_x": 0.2,
+            "noise_t": 0.5,
+            "z_index": 2,
+            "noise_y": 0.2,
+            "div_x": 3,
+            "motion_type": "wave",
+            "motion_speed": 4.0,
+            "div_y": 3,
+            "max_importance": 20,
+            "motion_freq": 1.0,
+            "min_importance": 1,
+            "delta_t": 5.0,
+            "density": 1
+        }
+    ],
+    "Name": "v0317_211221_211100"
+}
