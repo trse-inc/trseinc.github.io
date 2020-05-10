@@ -1,3 +1,4 @@
+jump.json
 bubble.json
 sidebubble.json
 golden.json
