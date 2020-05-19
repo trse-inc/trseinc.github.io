@@ -1,4 +1,4 @@
-jump.json
+randomcutout.json
 bubble.json
 sidebubble.json
 golden.json
